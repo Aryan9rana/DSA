@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "Q4_4.C": "cpp",
+        "ostream": "cpp"
+    }
+}
